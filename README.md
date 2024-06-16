@@ -20,9 +20,9 @@ Extraia o conteúdo na pasta com o jogo original e executar o Ace_Higurashi_Atto
 - A - Alternar modo automático
 - Ctrl - Segure para pular
 
-#Agradecimentos
-07th-mod
-DoctorDiablo
+# Agradecimentos
+- 07th-mod
+- DoctorDiablo
 
 # Créditos
 Manolo-chan - Tradução e programação
