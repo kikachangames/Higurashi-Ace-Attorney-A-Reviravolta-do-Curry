@@ -6,11 +6,10 @@ A Reviravolta do Curry
 # Visão geral
 <a href="https://vndb.org/v36039" target="_blank">Gyakuten Higurashi Saiban</a> é um fangame de Higurashi parodiando Ace Attorney, publicado pela Misejimai-Sale e lançado na Winter Comiket 71 em 2006.
 
-Em 2022 o jogo ganhou uma tradução para inglês, feita pelo DoctorDiablo, e agora é a vez da Kikachan Games trazer a tl PT-BR para a comunidade brasileira. A versão original em japonês está disponível para download em:
-https://archive.org/details/Higurashisaiban
+Em 2022 o jogo ganhou uma tradução para inglês, feita pelo DoctorDiablo, e agora é a vez da Kikachan Games trazer a tl PT-BR para a comunidade brasileira. A versão original em japonês está disponível para download em: https://archive.org/details/Higurashisaiban
 
 # Sinopse
-Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua inocência. Este pequeno jogo apresenta o elenco de Higurashi conduzindo um inquérito com jogabilidade baseada em Ace Attorney. O game não contém spoilers de nenhum dos trabalhos, então fique à vontade para jogar mesmo se você estiver familiarizado apenas com Higu ou AA (ou nenhum!).
+Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua inocência. O jogo apresenta o elenco de Higurashi conduzindo um inquérito com jogabilidade baseada em Ace Attorney e não contém spoilers de nenhum dos trabalhos. Então fique à vontade para jogar mesmo se você estiver familiarizado apenas com Higu ou AA (ou nenhum!).
 
 # Imagens
 <img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace01.png?raw=true">
@@ -54,4 +53,4 @@ Extraia o conteúdo na pasta com o jogo original e executar o Ace_Higurashi_Atto
 
 <hr>
 <p><small>Última atualização: 16/06/2024.</small></p>
-<p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
+<p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
