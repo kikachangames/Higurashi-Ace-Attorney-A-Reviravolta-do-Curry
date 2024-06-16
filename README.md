@@ -55,13 +55,6 @@ Extraia o conteúdo na pasta com o jogo original e executar o Ace_Higurashi_Atto
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
 <p><b>Edição de imagens</b></p>
 <p>Olá, meu nome é Ceuipsolon (ou Palpitando no YT). Gosto de explorar o mundo de prosas proporcionadas por VNs que hoje são meu novo mundo de interesse.</p> 
-
-# Créditos
-- Manolo-chan: Tradução e programação
-- 0Mateus: Revisão
-- ceuipsolon: Edição de imagens
-- Kikachan Games: Produção
-
 <hr>
 <p><small>Última atualização: 16/06/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
