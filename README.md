@@ -23,16 +23,6 @@ Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua 
 # Instalação
 Extraia o conteúdo na pasta com o jogo original e executar o Ace_Higurashi_Attorney_pt-br.exe.
 
-# Controles
-- Clique com o botão direito - Abra a tela de salvar/carregar
-- F - Alternar tela cheia
-- A - Alternar modo automático
-- Ctrl - Segure para pular
-
-# Agradecimentos
-- 07th-mod
-- DoctorDiablo
-
 # Download 
 <a href="https://drive.google.com/file/d/1itkQhrlcK0D991B-I-tpDVK5nOxRLsh0/view?usp=sharing" target="_blank">Clique aqui!</a>
 
@@ -54,7 +44,13 @@ Extraia o conteúdo na pasta com o jogo original e executar o Ace_Higurashi_Atto
 <h3>Ceuipsolon</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
 <p><b>Edição de imagens</b></p>
-<p>Olá, meu nome é Ceuipsolon (ou Palpitando no YT). Gosto de explorar o mundo de prosas proporcionadas por VNs que hoje são meu novo mundo de interesse.</p> 
+<p>Olá, meu nome é Ceuipsolon (ou Palpitando no YT). Gosto de explorar o mundo de prosas proporcionadas por VNs que hoje são meu novo mundo de interesse.</p>
+<br/>
+
+# Agradecimentos
+- 07th-mod
+- DoctorDiablo
+
 <hr>
 <p><small>Última atualização: 16/06/2024.</small></p>
 <p><small>2024 - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
