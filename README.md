@@ -25,6 +25,6 @@ Extraia o conteúdo na pasta com o jogo original e executar o Ace_Higurashi_Atto
 - DoctorDiablo
 
 # Créditos
-Manolo-chan - Tradução e programação
-0Mateus - Revisão
-Kikachan Games - Produção
+- Manolo-chan: Tradução e programação
+- 0Mateus: Revisão
+- Kikachan Games: Produção
