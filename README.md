@@ -31,7 +31,7 @@ Extraia o conteúdo na pasta com o jogo original e executar o Ace_Higurashi_Atto
 <h3>Manolo-chan</h3>
 <img src="https://kikachangames.github.io/air/manolo.png">
 <p><b>Líder de projeto, tradução e programação</b></p>
-<p>Oiê!!! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion e meu desejo é resgatar o amor pela leitura por meio das VNs.</p>
+<p>Oiê! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion e meu desejo é resgatar o amor pela leitura por meio das VNs.</p>
 <br/>
 
 <h3>0Mateus</h3>
