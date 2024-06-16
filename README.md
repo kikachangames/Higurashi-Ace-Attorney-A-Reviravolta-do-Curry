@@ -32,6 +32,7 @@ Extraia o conteúdo na pasta com o jogo original e executar o Ace_Higurashi_Atto
 # Créditos
 - Manolo-chan: Tradução e programação
 - 0Mateus: Revisão
+- ceuipsolon: Edição de imagens
 - Kikachan Games: Produção
 
 <hr>
