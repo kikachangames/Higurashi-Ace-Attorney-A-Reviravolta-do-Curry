@@ -13,6 +13,14 @@ https://archive.org/details/Higurashisaiban
 # Sinopse
 Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua inocência. Este pequeno jogo apresenta o elenco de Higurashi conduzindo um inquérito com jogabilidade baseada em Ace Attorney. O game não contém spoilers de nenhum dos trabalhos, então fique à vontade para jogar mesmo se você estiver familiarizado apenas com Higu ou AA (ou nenhum!).
 
+# Imagens
+<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace01.png?raw=true">
+<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace02.png?raw=true">
+<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace03.png?raw=true">
+<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace04.png?raw=true">
+<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace05.png?raw=true">
+<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace06.png?raw=true">
+
 # Instalação
 Extraia o conteúdo na pasta com o jogo original e executar o Ace_Higurashi_Attorney_pt-br.exe.
 
