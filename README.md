@@ -25,6 +25,7 @@ Extraia o conteúdo na pasta com o jogo original e executar o Ace_Higurashi_Atto
 
 # Download 
 <a href="https://drive.google.com/file/d/1itkQhrlcK0D991B-I-tpDVK5nOxRLsh0/view?usp=sharing" target="_blank">Clique aqui!</a>
+<br/>
 
 # Membros do projeto
 
