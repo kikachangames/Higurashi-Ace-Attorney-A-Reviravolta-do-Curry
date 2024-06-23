@@ -20,10 +20,14 @@ Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua 
 <img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace06.png?raw=true">
 
 # Instalação
-Clique no botão abaixo, extraia o conteúdo na pasta com o jogo original e execute o arquivo Ace_Higurashi_Attorney_pt-br.exe.
-
-<a href="https://drive.google.com/file/d/1SMmSBcgaJXlTI-45vV4YfTCfX2n0jEUu/view?usp=sharing" target="_blank"><img src= "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/download_bt_higu.png?raw=true"></a>
+PC: Clique no botão abaixo, extraia o conteúdo na pasta com o jogo original e execute o arquivo Ace_Higurashi_Attorney_pt-br.exe.
+<a href="https://drive.google.com/file/d/1OrWBgKBywfzOHbAeAya1f4LvldHyPuFq/view?usp=drive_link" target="_blank"><img src= "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/download_bt1_higu.png?raw=true"></a>
 <br/>
+
+Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogos. É necessário ter o aplicativo <a href="https://play.google.com/store/apps/details?id=com.onscripter.plus&hl=pt" target="_blank"ONScripter Plus</a>.
+<a href="https://drive.google.com/file/d/1qzVlMOu_Z4p5O4R0q1_TCq6y2-90N5fa/view?usp=drive_link" target="_blank"><img src= "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/download_bt2_higu.png?raw=true"></a>
+<br/>
+
 
 # Membros do projeto
 
@@ -51,5 +55,5 @@ Clique no botão abaixo, extraia o conteúdo na pasta com o jogo original e exec
 - DoctorDiablo
 
 <hr>
-<p><small>Última atualização: 16/06/2024.</small></p>
+<p><small>Última atualização: 23/06/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
