@@ -58,5 +58,5 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 - DoctorDiablo
 
 <hr>
-<p><small>Última atualização: 23/06/2024.</small></p>
+<p><small>Última atualização: 27/09/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
