@@ -30,6 +30,7 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 
 # Bugs conhecidos
 <p>Caso encontre problemas com os caracteres acentuados, renomeie o arquivo <b>0.txt</b> para <b>0.utf</b></p>
+<br/>
 
 # Membros do projeto
 
