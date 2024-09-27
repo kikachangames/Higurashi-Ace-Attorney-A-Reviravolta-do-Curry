@@ -28,6 +28,8 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 <a href="https://drive.google.com/file/d/1cuvqK0KDMtJDQ5g1PD0KfuBy03o3NKaE/view?usp=sharing" target="_blank"><img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/download_bt_higu2.png?raw=true"></a>
 <br/>
 
+# Bugs conhecidos
+<p>Caso encontre problemas com os caracteres acentuados, renomeie o arquivo <b>0.txt</b> para <b>0.utf</b></p>
 
 # Membros do projeto
 
