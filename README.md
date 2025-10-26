@@ -46,7 +46,7 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
     animes e jogando.
   </p>
   <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png"
-       align="right" width="180" height="180"
+       align="left" width="180" height="180"
        style="object-fit:cover; border-radius:10px; margin-left:10px;">
   <div style="clear:both;"></div>
 </div>
