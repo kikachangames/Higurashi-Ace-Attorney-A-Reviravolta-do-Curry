@@ -41,7 +41,6 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
   <div style="clear:both;"></div>
 </div>
 <br>
-<br>
 
 <div>
   <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png"
@@ -52,7 +51,6 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
   <p>Revisão</p>
   <div style="clear:both;"></div>
 </div>
-<br>
 <br>
 
 <div>
