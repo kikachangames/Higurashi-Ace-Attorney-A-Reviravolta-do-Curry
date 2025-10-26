@@ -31,11 +31,15 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 
 # Membros do projeto
 
+<div>
+<img src="https://kikachangames.github.io/air/manolo.png"
+     align="left" width="180" height="180"
+     style="object-fit:cover; border-radius:10px; margin-left:10px;">
 <h3>Manolo-chan</h3>
-<img src="https://kikachangames.github.io/air/manolo.png">
-<p><b>Líder de projeto, tradução e programação</b></p>
-<p>Oiê! Curto romances, terror e histórias com múltiplos finais, especialmente aquelas ambientadas em escolas! Admiro o trabalho da Key e da 07th Expansion e meu desejo é resgatar o amor pela leitura por meio das VNs.</p>
-<br/>
+  <p><b>Líder de projeto, tradução e programação</b></p>
+  <div style="clear:both;"></div>
+</div>
+<br>
 
 <div>
   <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png"
@@ -43,17 +47,19 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
        style="object-fit:cover; border-radius:10px; margin-left:10px;">
   <h3>0Mateus</h3>
   <p><b>Revisão</b></p>
-    Olá pessoal! Gosto muito de Higurashi, Umineko e outras visual novels.
-    Curto muito o trabalho da 07th Expansion e passo o tempo assistindo
-    animes e jogando.
-  
   <div style="clear:both;"></div>
 </div>
 <br>
-<h3>Ceuipsolon</h3>
+
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
+  align="left" width="180" height="180"
+  style="object-fit:cover; border-radius:10px; margin-left:10px;">
+<h3>Ceuipsolon</h3>
 <p><b>Edição de imagens</b></p>
-<p>Olá, meu nome é Ceuipsolon (ou Palpitando no YT). Gosto de explorar o mundo de prosas proporcionadas por VNs que hoje são meu novo mundo de interesse.</p>
+<div style="clear:both;"></div>
+</div>
+
+
 <br/>
 
 # Agradecimentos
