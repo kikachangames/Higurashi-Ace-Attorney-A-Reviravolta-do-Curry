@@ -1,7 +1,7 @@
 # Ace Higurashi Attorney
 A Reviravolta do Curry
 
-<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/boxart.png">
+<img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/boxart.png">
 
 # Visão geral
 <a href="https://vndb.org/v36039" target="_blank">Gyakuten Higurashi Saiban</a> é um fangame de Higurashi parodiando Ace Attorney, publicado pela Misejimai-Sale e lançado na Winter Comiket 71 em 2006.
