@@ -66,7 +66,7 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 <br>
 <br>
 <br>
-
+<br>
 # Agradecimentos
 - 07th-mod
 - DoctorDiablo
