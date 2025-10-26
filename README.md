@@ -41,7 +41,7 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 </div>
 <br>
 <br>
-
+<br>
 <div>
   <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png"
        align="left" width="180" height="180"
@@ -52,7 +52,7 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 </div>
 <br>
 <br>
-
+<br>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png"
   align="left" width="180" height="180"
   style="object-fit:cover; border-radius:10px; margin-left:10px;">
@@ -61,7 +61,8 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 <div style="clear:both;"></div>
 </div>
 <br>
-
+<br>
+<br>
 # Agradecimentos
 - 07th-mod
 - DoctorDiablo
