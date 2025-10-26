@@ -40,17 +40,15 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 <div>
   <h3>0Mateus</h3>
   <p><b>Revisão</b></p>
-  <p>
     Olá pessoal! Gosto muito de Higurashi, Umineko e outras visual novels.
     Curto muito o trabalho da 07th Expansion e passo o tempo assistindo
     animes e jogando.
-  </p>
   <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png"
        align="left" width="180" height="180"
        style="object-fit:cover; border-radius:10px; margin-left:10px;">
   <div style="clear:both;"></div>
 </div>
-
+<br>
 <h3>Ceuipsolon</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
 <p><b>Edição de imagens</b></p>
