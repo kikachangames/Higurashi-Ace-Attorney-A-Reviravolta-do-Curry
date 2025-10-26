@@ -1,7 +1,7 @@
 # Ace Higurashi Attorney
 A Reviravolta do Curry
 
-<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/boxart.png?raw=true">
+<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/boxart.png">
 
 # Visão geral
 <a href="https://vndb.org/v36039" target="_blank">Gyakuten Higurashi Saiban</a> é um fangame de Higurashi parodiando Ace Attorney, publicado pela Misejimai-Sale e lançado na Winter Comiket 71 em 2006.
@@ -12,20 +12,20 @@ Em 2022 o jogo ganhou uma tradução para inglês, feita pelo DoctorDiablo, e ag
 Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua inocência. O jogo apresenta o elenco de Higurashi conduzindo um inquérito com jogabilidade baseada em Ace Attorney e não contém spoilers de nenhum dos trabalhos. Então fique à vontade para jogar mesmo se você estiver familiarizado apenas com Higu ou AA (ou nenhum!).
 
 # Imagens
-<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace01.png?raw=true">
-<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace02.png?raw=true">
-<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace03.png?raw=true">
-<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace04.png?raw=true">
-<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace05.png?raw=true">
-<img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/ace06.png?raw=true">
+<img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/ace01.png">
+<img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/ace02.png">
+<img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/ace03.png">
+<img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/ace04.png">
+<img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/ace05.png">
+<img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/ace06.png">
 
 # Instalação
 PC: Clique no botão abaixo, extraia o conteúdo na pasta com o jogo original e execute o arquivo Ace_Higurashi_Attorney_pt-br.exe.
-<a href="https://drive.google.com/file/d/1pW8lj-uxNaxQn2P7GklWmRWgOU7Jtb0f/view?usp=sharing" target="_blank"><img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/download_bt_higu1.png?raw=true"></a>
+<a href="https://drive.google.com/file/d/1pW8lj-uxNaxQn2P7GklWmRWgOU7Jtb0f/view?usp=sharing" target="_blank"><img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/download_bt_higu1.png"></a>
 <br/>
 
 Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogos. É necessário ter o aplicativo <a href="https://play.google.com/store/apps/details?id=com.onscripter.plus&hl=pt" target="_blank">ONScripter Plus</a>.
-<a href="https://drive.google.com/file/d/1cuvqK0KDMtJDQ5g1PD0KfuBy03o3NKaE/view?usp=sharing" target="_blank"><img src = "https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/blob/main/download_bt_higu2.png?raw=true"></a>
+<a href="https://drive.google.com/file/d/1cuvqK0KDMtJDQ5g1PD0KfuBy03o3NKaE/view?usp=sharing" target="_blank"><img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/download_bt_higu2.png"></a>
 <br/>
 
 # Bugs conhecidos
