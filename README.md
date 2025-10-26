@@ -29,14 +29,14 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 <p>Caso encontre problemas com os caracteres acentuados, renomeie o arquivo <b>0.txt</b> para <b>0.utf</b></p>
 <br/>
 
-# Membros do projeto
+# Equipe
 
 <div>
 <img src="https://kikachangames.github.io/air/manolo.png"
      align="left" width="180" height="180"
      style="object-fit:cover; border-radius:10px; margin-left:10px;">
 <h3>Manolo-chan</h3>
-  <p><b>Líder de projeto, tradução e programação</b></p>
+  <p>Líder de projeto, tradução e programação</p>
   <div style="clear:both;"></div>
 </div>
 <br>
@@ -46,21 +46,19 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
        align="left" width="180" height="180"
        style="object-fit:cover; border-radius:10px; margin-left:10px;">
   <h3>0Mateus</h3>
-  <p><b>Revisão</b></p>
+  <p>Revisão</p>
   <div style="clear:both;"></div>
 </div>
 <br>
 
-<img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
+<img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png"
   align="left" width="180" height="180"
   style="object-fit:cover; border-radius:10px; margin-left:10px;">
 <h3>Ceuipsolon</h3>
-<p><b>Edição de imagens</b></p>
+<p>Edição de imagens</p>
 <div style="clear:both;"></div>
 </div>
-
-
-<br/>
+<br>
 
 # Agradecimentos
 - 07th-mod
