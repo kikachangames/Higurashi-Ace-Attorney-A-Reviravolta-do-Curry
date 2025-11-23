@@ -22,7 +22,7 @@ PC: Clique no botão abaixo, extraia o conteúdo na pasta com o jogo original e 
 <br/>
 
 Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogos. É necessário ter o aplicativo <a href="https://play.google.com/store/apps/details?id=com.onscripter.plus&hl=pt" target="_blank">ONScripter Plus</a>.
-<a href="https://drive.google.com/file/d/1cuvqK0KDMtJDQ5g1PD0KfuBy03o3NKaE/view?usp=sharing" target="_blank"><img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/download_bt_higu2.png"></a>
+<a href="https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/releases/download/v0.3A/AHA-Android-0.3.zip" target="_blank"><img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/download_bt_higu2.png"></a>
 <br/>
 
 # Bugs conhecidos
@@ -68,8 +68,9 @@ Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogo
 
 # Agradecimentos
 - 07th-mod
+- Darksoner
 - DoctorDiablo
 
 <hr>
-<p><small>Última atualização: 27/09/2024.</small></p>
+<p><small>Última atualização: 23/11/2025.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
