@@ -40,7 +40,7 @@ Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua 
   <p>Líder de projeto, tradução e programação</p>
   <div style="clear:both;"></div>
 </div>
-<br>
+<br><br>
 
 <div>
   <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png"
@@ -51,7 +51,7 @@ Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua 
   <p>Revisão</p>
   <div style="clear:both;"></div>
 </div>
-<br>
+<br><br>
 
 <div>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png"
