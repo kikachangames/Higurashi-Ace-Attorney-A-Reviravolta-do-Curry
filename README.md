@@ -18,7 +18,7 @@ Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua 
 
 # Instalação
 PC: Clique no botão abaixo, extraia o conteúdo na pasta com o jogo original e execute o arquivo Ace_Higurashi_Attorney_pt-br.exe.
-<a href="https://drive.google.com/file/d/1pW8lj-uxNaxQn2P7GklWmRWgOU7Jtb0f/view?usp=sharing" target="_blank"><img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/download_bt_higu1.png"></a>
+<a href="https://github.com/kikachangames/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/releases/download/v0.3/AHA-0.3.zip" target="_blank"><img src = "https://kikachangames.github.io/Higurashi-Ace-Attorney-A-Reviravolta-do-Curry/download_bt_higu1.png"></a>
 <br/>
 
 Android: Clique no botão abaixo e extraia o conteúdo na pasta com os seus jogos. É necessário ter o aplicativo <a href="https://play.google.com/store/apps/details?id=com.onscripter.plus&hl=pt" target="_blank">ONScripter Plus</a>.
