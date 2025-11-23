@@ -63,7 +63,7 @@ Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua 
 <div style="clear:both;">
 </div>
 </div>
-<br><br><br>
+<br><br><br><br>
 
 
 # Agradecimentos
