@@ -68,7 +68,7 @@ Um crime relacionado ao curry foi cometido e Keiichi deve lutar para provar sua 
 
 # Agradecimentos
 - 07th-mod
-- Darksoner
+- Darksoner (Revisão de termos jurídicos na versão 0.3)
 - DoctorDiablo
 
 <hr>
